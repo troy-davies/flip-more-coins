@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="FQfi{*gxJl*;qi2%0Fqs">initiated</variable><variable id="Z;Mk{wo3NV~i1HW^Q`3H">range</variable></variables><block type="logic_compare" id="u`B6^!Un!qVe?ncLi5q[" disabled-reasons="pxt_automatic_disabled" x="198" y="-469"><field name="OP">EQ</field></block></xml>
